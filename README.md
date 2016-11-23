@@ -58,7 +58,8 @@ This file contains a list of conferences and their talk submit dates.
 #### Web:
 
 * [Fluent Conf]()
-
+* [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
+* [JSConf EU](http://2015.jsconf.eu/)
 #### How to submit your event:
 
 * 
