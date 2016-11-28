@@ -60,6 +60,7 @@ This file contains a list of conferences and their talk submit dates.
 * [Fluent Conf]()
 * [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
 * [JSConf EU](http://2015.jsconf.eu/)
+* [Developer Week](http://www.developerweek.com/)
 #### How to submit your event:
 
 * 
