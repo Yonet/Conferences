@@ -24,6 +24,7 @@ This file contains a list of conferences and their talk submit dates.
 #### Angular:
 
 * [ngAtlanta](http://ng-atl.org/): Jan 30 - Feb 2, 2018
+* [Angular Camp](https://angularcamp.org/) July 6-7th 2017
 * [Oredev](http://oredev.org/)
 * [ngConf](https://www.ng-conf.org/)
 * [ngVikings](https://ngvikings.org/)
@@ -83,6 +84,7 @@ This file contains a list of conferences and their talk submit dates.
 
 #### Other Resources:
 
+* [Lanyrd](http://lanyrd.com/)
 * [Confreaks](http://confreaks.tv/conferences)
 * [IoT Events](https://www.iotevents.org/)
 
