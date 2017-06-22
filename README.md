@@ -19,9 +19,11 @@ This file contains a list of conferences and their talk submit dates.
 
 #### Android:
 
+* [Oredev](http://oredev.org/)
 
 #### Angular:
 
+* [Oredev](http://oredev.org/)
 * [ngConf](https://www.ng-conf.org/)
 * [ngVikings](https://ngvikings.org/)
 * [ngCruise](https://ngcruise.com/)
@@ -29,6 +31,7 @@ This file contains a list of conferences and their talk submit dates.
 
 #### AR and VR:
 
+* [Oredev](http://oredev.org/)
 * [Forge DevCon](https://forge.autodesk.com/DevCon-2017)
 
   
@@ -38,19 +41,26 @@ This file contains a list of conferences and their talk submit dates.
 
 #### Data Science:
 
+* [Data Week](http://dataweek.co/)
 * [ForgeConf](http://www.forgeconf.com/)
 
 #### Design:
 
+* [Oredev](http://oredev.org/)
 * [ForgeConf](http://www.forgeconf.com/)
+
 
 #### Machine Learning:
 
-* []()
+* [Oredev](http://oredev.org/)
+
+#### Mobile:
+
+* [Oredev](http://oredev.org/)
 
 #### Internet of Things:
 
-* []()
+* [Oredev](http://oredev.org/)
 
 #### Product:
 
@@ -58,16 +68,22 @@ This file contains a list of conferences and their talk submit dates.
 
 #### Web:
 
+* [Developer Week](http://www.developerweek.com/) - February 3-8, 2018
+* [Oredev](http://oredev.org/)
 * [Fluent Conf]()
 * [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
 * [JSConf EU](http://2015.jsconf.eu/)
 * [Developer Week](http://www.developerweek.com/)
+
 #### How to submit your event:
 
 * 
+
 #### Other Resources:
 
 * [Confreaks](http://confreaks.tv/conferences)
+* [IoT Events](https://www.iotevents.org/)
 
 #### Contributors:
 * [Aysegul Yonet](https://developers.google.com/experts/people/aysegul-yonet)
+* [Nilay Yener](https://github.com/nyener)
