@@ -23,6 +23,7 @@ This file contains a list of conferences and their talk submit dates.
 
 #### Angular:
 
+* [ngAtlanta](http://ng-atl.org/): Jan 30 - Feb 2, 2018
 * [Oredev](http://oredev.org/)
 * [ngConf](https://www.ng-conf.org/)
 * [ngVikings](https://ngvikings.org/)
@@ -60,6 +61,7 @@ This file contains a list of conferences and their talk submit dates.
 
 #### Internet of Things:
 
+* [At&t Developer Summit](https://devsummit.att.com/)
 * [Oredev](http://oredev.org/)
 
 #### Product:
