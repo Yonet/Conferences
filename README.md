@@ -13,7 +13,7 @@ This file contains a list of conferences and their talk submit dates.
   1. [Machine Learning](#machine-learning)
   1. [Internet of Things](#internet-of-things)
   1. [Product](#product)
-  1. [Web](#api-questions)
+  1. [Web](#web)
   1. [How to submit your event](#how-to-submit-your-event)
   1. [Other Resources](#other-resources)
 
