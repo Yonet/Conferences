@@ -20,6 +20,7 @@ This file contains a list of conferences and their talk submit dates.
 #### Android:
 
 * [Oredev](http://oredev.org/)
+* [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
 
 #### Angular:
 
@@ -29,7 +30,7 @@ This file contains a list of conferences and their talk submit dates.
 * [ngConf](https://www.ng-conf.org/)
 * [ngVikings](https://ngvikings.org/)
 * [ngCruise](https://ngcruise.com/)
-
+* [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
 
 #### AR and VR:
 
@@ -55,6 +56,7 @@ This file contains a list of conferences and their talk submit dates.
 #### Machine Learning:
 
 * [Oredev](http://oredev.org/)
+* [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
 
 #### Mobile:
 
@@ -64,6 +66,7 @@ This file contains a list of conferences and their talk submit dates.
 
 * [At&t Developer Summit](https://devsummit.att.com/)
 * [Oredev](http://oredev.org/)
+* [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
 
 #### Product:
 
@@ -77,6 +80,7 @@ This file contains a list of conferences and their talk submit dates.
 * [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
 * [JSConf EU](http://2015.jsconf.eu/)
 * [Developer Week](http://www.developerweek.com/)
+* [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
 
 #### How to submit your event:
 
