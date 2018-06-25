@@ -87,6 +87,7 @@ This file contains a list of conferences and their talk submit dates.
 
 * [Lanyrd](http://lanyrd.com/)
 * [Confreaks](http://confreaks.tv/conferences)
+* [Papercall](https://www.papercall.io/)
 * [IoT Events](https://www.iotevents.org/)
 
 #### Contributors:
