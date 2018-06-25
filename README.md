@@ -80,7 +80,11 @@ This file contains a list of conferences and their talk submit dates.
 * [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
 * [JSConf EU](http://2015.jsconf.eu/)
 * [Developer Week](http://www.developerweek.com/)
+
 * [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
+
+* [AmsterdamJS](https://amsterdamjs.com/)
+
 
 #### How to submit your event:
 
@@ -90,6 +94,7 @@ This file contains a list of conferences and their talk submit dates.
 
 * [Lanyrd](http://lanyrd.com/)
 * [Confreaks](http://confreaks.tv/conferences)
+* [Papercall](https://www.papercall.io/)
 * [IoT Events](https://www.iotevents.org/)
 
 #### Contributors:
