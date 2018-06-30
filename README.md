@@ -76,6 +76,7 @@ This file contains a list of conferences and their talk submit dates.
 
 * [Developer Week](http://www.developerweek.com/) - February 3-8, 2018
 * [Oredev](http://oredev.org/)
+* [Fronteers](https://fronteers.nl/congres)
 * [Fluent Conf]()
 * [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
 * [JSConf EU](http://2015.jsconf.eu/)
