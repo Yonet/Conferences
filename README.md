@@ -82,9 +82,8 @@ This file contains a list of conferences and their talk submit dates.
 * [JSConf EU](http://2015.jsconf.eu/)
 * [Developer Week](http://www.developerweek.com/)
 * [Connect.Tech] (http://connect.tech/) - October 17 - 19 2018
-
 * [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
-
+* [RuhrJS](https://ruhrjs.de)
 * [AmsterdamJS](https://amsterdamjs.com/)
 
 
