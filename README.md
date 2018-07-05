@@ -76,10 +76,12 @@ This file contains a list of conferences and their talk submit dates.
 
 * [Developer Week](http://www.developerweek.com/) - February 3-8, 2018
 * [Oredev](http://oredev.org/)
+* [Fronteers](https://fronteers.nl/congres)
 * [Fluent Conf]()
 * [JSConf US](http://lastcall.jsconf.us/call-for-speakers.html)
 * [JSConf EU](http://2015.jsconf.eu/)
 * [Developer Week](http://www.developerweek.com/)
+* [Connect.Tech] (http://connect.tech/) - October 17 - 19 2018
 * [Devfest Düsseldorf](https://duesseldorf.devfest.de/), September 9-10, 2017
 * [RuhrJS](https://ruhrjs.de)
 * [AmsterdamJS](https://amsterdamjs.com/)
@@ -100,3 +102,4 @@ This file contains a list of conferences and their talk submit dates.
 * [Aysegul Yonet](https://developers.google.com/experts/people/aysegul-yonet)
 * [Nilay Yener](https://github.com/nyener)
 * [Martin Splitt](https://github.com/AVGP)
+* [Alain Chautard](http://github.com/alcfeoh)
